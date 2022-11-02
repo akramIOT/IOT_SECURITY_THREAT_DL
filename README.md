@@ -1,3 +1,9 @@
+
+
+![image](https://user-images.githubusercontent.com/21118209/199605892-6727b574-b2ba-4f8e-920d-4fcd386feaf8.png)
+
+
+
 # fed_iot_guard
 Detection of IoT devices infected by malware from their network communications, using federated machine learning
 
