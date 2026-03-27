@@ -4,6 +4,10 @@
 
 
 
+# Detailed  Software Architecture with the Federated Deep learning approach.
+
+![iot_security_threat_dl_architecture](https://github.com/user-attachments/assets/4c54a636-6dff-4f70-b6c7-79c41820cb4b)
+
 # fed_iot_guard
 Detection of IoT devices infected by malware from their network communications, using federated machine learning
 
